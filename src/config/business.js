@@ -1,5 +1,5 @@
 export const businessConfig = {
-  businessName: "TheGift",
+  businessName: "TheGiftRoom",
   tagline: "Handmade with Love",
   whatsappNumber: "9707723537",
   phone: "9707723537",
